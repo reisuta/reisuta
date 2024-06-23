@@ -1,4 +1,4 @@
-<img alt="my skills" src="https://skillicons.dev/icons?i=js,html,css,dart,docker,firebase,flutter,git,github,githubactions,go,kali,linux,md,lua,materialui,neovim,nestjs,mysql,nextjs,nginx,nodejs,npm,nuxtjs,php,pinia,postgres,postman,prisma,py,rails,react,redis,ruby,rust,styledcomponents,sequelize,threejs,ubuntu,vim,vite,vitest,vue,wordpress,yarn,express,electron,aws,ansible" />
+<img alt="my skills" src="https://skillicons.dev/icons?i=rails,nuxtjs,neovim,dart,flutter,go,nestjs,nextjs,rust,electron,ansible" />
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisuta&layout=compact&show_icons=true&theme=synthwave" />
